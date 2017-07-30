@@ -10,6 +10,7 @@ Created a text editor from scratch in Java.  Has the following features:
 - mouseclick
 - wordwrap
 - textwrap
+
 Not fully implemented:
 - scrollbar
 - highlight
