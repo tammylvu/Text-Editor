@@ -3,6 +3,7 @@ Run by using command java editor.Editor <filename.txt>
 
 Created a text editor from scratch in Java.  Has the following features:
 - arrow keys
+- font size changes
 - insert character
 - delete character
 - open/save
