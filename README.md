@@ -1,7 +1,8 @@
 # Text-Editor
 Run by using command java editor.Editor <filename.txt>
 
-![Text Editor Screenshot](/demo/text-editor-demo.png/Demo!)
+![Text Editor Screenshot](/demo/text-editor-demo.png?raw=true "Demo")
+
 
 Watch a demo here: https://youtu.be/gjSG-mXhFdA
 
