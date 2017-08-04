@@ -1,7 +1,11 @@
 # Text-Editor
 Run by using command java editor.Editor <filename.txt>
 
-Created a text editor from scratch in Java.  Has the following features:
+![Text Editor Screenshot](/demo/text-editor-demo.png/Demo!)
+
+Watch a demo here: https://youtu.be/gjSG-mXhFdA
+
+I created a text editor from scratch in Java.  Has the following features:
 - arrow keys
 - font size changes
 - insert character
